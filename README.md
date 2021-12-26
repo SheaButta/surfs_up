@@ -30,6 +30,10 @@ From the analysis above, I have identifed three (3) major points;
 - The high temperature of June and December are in the low to mid 80s.
 - The standard deviation appears to be about 3 degrees from the mean.
 
+From the analysis above, I have also identifed three (3) major __differences__;
+- The count or number of "not empty values" has a difference of 183 between June and December.
+- The min temperature in December is 56 and the min temperature in June is 64.
+- 25% of the month in June, the temperature is below 70 degrees, whereas in December the 25% of the month the weather is above 70 degrees.
  
 ## Summary
 The "Surf n'Shake" shop seems to be a sustainable business based on the data from June and December.  An average temperature in the low 70s for both June and December, seems to indicate surfing can be done year-round and if you can surf year-round, you can definitely eat ice-cream year-round.  There are two (2) additional weather queries that might provide some additional insight and strenghten this business plan; (1). A query on the precipitation in the month of June; and (2) a query on the precipitation in the month of December.
