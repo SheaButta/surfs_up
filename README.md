@@ -28,7 +28,7 @@ The temperature data for the month of December is illustrated below.
 From the analysis above, I have identifed three (3) major points;
 - The temperature in both June and December are in the low 70s.
 - The high temperature of June and December are in the low to mid 80s.
-- The standard deviation appears to be about 3 degress from the mean.
+- The standard deviation appears to be about 3 degrees from the mean.
 
  
 ## Summary
