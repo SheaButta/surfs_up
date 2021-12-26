@@ -19,11 +19,11 @@ After analyzing the data, I was able produce the required information for W. Avy
  
 The temperature data for the month of June is illustrated below.
 
-![June Analysis](https://github.com/SheaButta/Movies-ETL/blob/main/Resources/JuneTemps.png)
+![June Analysis](https://github.com/SheaButta/surfs_up/blob/main/Resources/JuneTemps.PNG)
 
 The temperature data for the month of December is illustrated below.
 
-![December Analysis](https://github.com/SheaButta/Movies-ETL/blob/main/Resources/DecemberTemps.png)
+![December Analysis](https://github.com/SheaButta/surfs_up/blob/main/Resources/DecemberTemps.PNG)
 
 From the analysis above, I have identifed three (3) major points;
 - The temperature in both June and December are in the low 70s.
